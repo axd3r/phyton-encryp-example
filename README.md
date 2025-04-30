@@ -38,7 +38,7 @@ This project provides a simple tool to generate a secure password hash using the
 
      ```bash
      python -m venv venv
-     .env\Scriptsctivate
+     .env\Scripts\ctivate
      ```
 
 4. Install the project dependencies (if any):
