@@ -1,0 +1,40 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.pdb
+*.tgz
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# PyCharm
+*.iml
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
